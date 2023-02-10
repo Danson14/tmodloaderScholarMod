@@ -30,13 +30,13 @@ namespace TestModScholar.Projectiles
             Projectile.tileCollide = true;
         }
 
-       
+
         public override void Kill(int timeLeft)
         {
             Vector2 position = Projectile.Center;
-            int radius = 1 ;
+            int radius = 1;
 
-            Player player = Main.player[Projectile.owner]; 
+            Player player = Main.player[Projectile.owner];
             Item bestPickaxe = player.GetBestPickaxe();
 
             for (int x = -radius; x <= radius; x++)
@@ -64,7 +64,7 @@ namespace TestModScholar.Projectiles
                 }
             }
         }
-        
+
 
         public override void AI()
         {
