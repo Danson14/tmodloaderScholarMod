@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PfoMFUAryvkJB+7J0pM3V0MnrNTyc9MdaBJ8j5yFoX0beRznLDbBLdSlmASjz4TPSs6ADcCB15hUu+f0+l/wvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theda\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestModScholar\\TestModScholar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theda\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
